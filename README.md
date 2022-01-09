@@ -1,5 +1,5 @@
 - 👋 Hallo, I’m @fairuzzamrody
-- 👀 I’m interested in Web Design
+- 👀 I’m interested in Web Developer, Android Developer, Cyber Security.
 - 🌱 I’m currently learning PHP, C#, Pythonm and etc
 
 <!---
